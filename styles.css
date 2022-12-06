@@ -1,0 +1,214 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 1px;
+  display: block;
+}
+
+/** navigation **/
+
+.navigation {
+  background-color: #c335e6;
+  color: white;
+  padding: 1rem;
+  border-bottom-left-radius: 0rem;
+  border-radius: 1rem;
+  font-family: "Sora", sans-serif;
+}
+
+.navigation .nav-brand {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.navigation .nav-pills {
+  text-align: right;
+}
+
+.navigation .link {
+  color: white;
+  font-size: x-large;
+}
+
+.navigation .link-active {
+  font-weight: bold;
+}
+
+.list-non-bullet {
+  list-style: none;
+  padding-inline-start: 0px;
+}
+
+.list-item-inline {
+  display: inline;
+  padding: 0rem 0.5rem;
+}
+
+/* index.html css only */
+
+.index-main {
+  text-align: center;
+  padding-top: 4rem;
+}
+.index-para {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.index-container {
+  width: 300px;
+  margin: auto auto;
+}
+
+.index-label {
+  font-weight: 500;
+  font-size: 1.3rem;
+  display: block;
+  margin-top: 0.5rem;
+  width: 100%;
+}
+
+.index-input {
+  border-radius: 5px;
+  padding: 0.5rem;
+  font-size: large;
+  margin: 1rem 0;
+  border-color: black;
+  display: block;
+  margin-top: 0.5rem;
+  width: 100%;
+}
+
+.index-btn {
+  font-size: large;
+}
+
+.index-output {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+/* hypotenuse.html css only */
+
+.hypotenuse-main {
+  text-align: center;
+  padding-top: 4rem;
+}
+.hypotenuse-para {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.hypotenuse-container {
+  width: 300px;
+  margin: auto auto;
+}
+
+.hypotenuse-label {
+  font-weight: 500;
+  font-size: 1.3rem;
+  display: block;
+  margin-top: 0.5rem;
+  width: 100%;
+}
+
+.hypotenuse-input {
+  border-radius: 5px;
+  padding: 0.5rem;
+  font-size: large;
+  margin: 1rem 0;
+  border-color: black;
+  display: block;
+  margin-top: 0.5rem;
+  width: 100%;
+}
+
+.hypotenuse-btn {
+  font-size: large;
+}
+
+.hypotenuse-output {
+  padding-top: 2rem;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+/* quiz.html css only */
+
+.quiz-main {
+  text-align: center;
+  padding-top: 4rem;
+}
+.quiz-para {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.quiz-container p {
+  font-size: large;
+  font-weight: bold;
+  padding-top: 3rem;
+}
+
+.quiz-container label,
+input {
+  font-size: large;
+}
+
+.quiz-btn {
+  font-size: large;
+  margin-top: 2rem;
+}
+
+.quiz-output {
+  padding-top: 2rem;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+/* area.html css only */
+
+.area-main {
+  text-align: center;
+  padding-top: 4rem;
+}
+.area-para {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.area-container {
+  width: 300px;
+  margin: auto auto;
+}
+
+.area-label {
+  font-weight: 500;
+  font-size: 1.3rem;
+  display: block;
+  margin-top: 0.5rem;
+  width: 100%;
+}
+
+.area-input {
+  border-radius: 5px;
+  padding: 0.5rem;
+  font-size: large;
+  margin: 1rem 0;
+  border-color: black;
+  display: block;
+  margin-top: 0.5rem;
+  width: 100%;
+}
+
+.area-btn {
+  font-size: large;
+  padding-bottom: 1px;
+}
+
+.area-output {
+  padding-top: 1rem;
+  font-size: x-large;
+  font-weight: bold;
+}
